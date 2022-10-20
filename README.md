@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @YxnnXriel
 - 👀 I am interested in programming, video games, automation
-- 🌱 my programming languages are C,c++,python 
+- 🌱 my programming languages are C,C++,python 
 - 💞️ I am looking to collaborate on the automation of repetitive tasks and other
 - 📫 How to reach me Facebook: Yann Ariel
 
