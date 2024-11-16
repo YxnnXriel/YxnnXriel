@@ -1,23 +1,63 @@
-<h1 align="center">Hi 👋, I'm Yann Ariel</h1>
-<h3 align="center">currently, I'm focused on language theory, making a programming language. i really like it</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yxnnxriel/yxnnxriel/main/assets/header.png" alt="Yann Ariel" width="100%">
+  
+  # Yann Ariel
+  
+  [![Discord](https://img.shields.io/badge/Discord-yannariel-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yannariel)
+  [![Email](https://img.shields.io/badge/Email-yannariel13%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yannariel13@gmail.com)
+  
+  ### Language Theory Enthusiast | Programming Language Creator
+  
+  Currently focused on developing the **CeFlo Interpreter** and diving deep into language theory.
+</div>
 
-- 🔭 I’m currently working on **CeFlo Interpreter**
+---
 
-- 🌱 I’m currently learning **NASM**
+## 🚀 About Me
 
-- 💬 Ask me about **C, C++ and language theory.I've been learning a lot lately**
+- 🔭 I'm currently working on the **CeFlo Interpreter**
+- 🌱 I'm expanding my knowledge in **NASM** and low-level programming
+- 💡 I'm passionate about **C, C++, and language theory**
+- 🤝 I'm open to collaborations and discussions on language theory and interpreter design
+- ⚡ Fun fact: I'm known for my quick email responses and open-minded approach to new ideas!
 
-- 📫 How to reach me **yannariel13@gmail.com**
+## 🛠️ Technologies & Tools
 
-- ⚡ Fun fact **I usually reply quickly by e-mail. I'm open-minded and I'm looking for people with experience in language theory.**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/yannariel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yannariel" height="30" width="40" /></a>
-</p>
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yxnnxriel&show_icons=true&locale=en&layout=compact" alt="yxnnxriel" /></p>
+## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxnnxriel&layout=compact&theme=dark" alt="Top Languages" />
+</div>
+
+## 🤝 Let's Connect!
+
+I'm always eager to connect with fellow developers, especially those interested in language theory and interpreter design. Feel free to reach out if you'd like to collaborate or just chat about programming languages!
+
+<div align="center">
+  
+[![Discord](https://img.shields.io/badge/Discord-Connect-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yannariel)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yannariel13@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <i>⭐️ From [yxnnxriel](https://github.com/yxnnxriel)</i>
+</div>
